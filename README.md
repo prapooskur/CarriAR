@@ -36,5 +36,5 @@ CarriAR allows customers to see the phones with their own eyes, in their own hou
 ## What's next for CarriAR
 * Include more phones
 * Create an account system so multiple people can upload their own models
-* Create an app/PWA to make the experience feel more native
+* Create an app (possible PWA) to make the experience feel more native
 * Make the models the site uses higher-quality

@@ -1,3 +1,135 @@
-* { box-sizing: border-box; } body {margin: 0;}.clearfix{clear:both;}.header-banner{padding-top:35px;padding-bottom:100px;color:#ffffff;font-family:Helvetica, serif;font-weight:100;background-image:url("//grapesjs.com/img/bg-gr-v.png"), url("//grapesjs.com/img/work-desk.jpg");background-attachment:scroll, scroll;background-position:left top, center center;background-repeat:repeat-y, no-repeat;background-size:contain, cover;}.container-width{width:90%;max-width:1150px;margin:0 auto;}.logo-container{float:left;width:50%;}.logo{background-color:#fff;border-radius:5px;width:130px;padding:10px;min-height:30px;text-align:center;line-height:30px;color:#4d114f;font-size:23px;}.menu{float:right;width:50%;}.menu-item{float:right;font-size:15px;color:#eee;width:130px;padding:10px;min-height:50px;text-align:center;line-height:30px;font-weight:400;}.lead-title{margin:150px 0 30px 0;font-size:40px;}.sub-lead-title{max-width:650px;line-height:30px;margin-bottom:30px;color:#c6c6c6;}.flex-sect{background-color:#fafafa;padding:100px 0;font-family:Helvetica, serif;}.flex-title{margin-bottom:15px;font-size:2em;text-align:center;font-weight:700;color:#555;padding:5px;}.cards{padding:20px 0;display:flex;justify-content:space-around;flex-flow:wrap;}.card{background-color:white;height:300px;width:300px;margin-bottom:30px;box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);border-radius:2px;transition:all 0.5s ease;font-weight:100;overflow:hidden;}.card:hover{margin-top:-5px;box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);}#iny1f{color:black;width:188px;height:301px;position:relative;left:55px;}#ijp3c{color:black;width:197px;height:261px;top:20px;position:relative;left:50px;}#izkum{color:black;width:257px;height:257px;position:relative;top:20px;left:20px;}#io5nq{color:black;width:298px;height:298px;}#i9wfz{color:black;width:230px;height:276px;position:relative;left:35px;top:10px;}#it40m{color:black;width:210px;height:277px;position:relative;top:10px;left:45px;}.tooltip-component{position:relative;display:inline-block;vertical-align:top;}.tooltip-component--empty{width:50px;height:50px;}.tooltip-component__body, [data-tooltip]::after{font-family:Helvetica, sans-serif;background:rgba(55, 61, 73, 0.95);border-radius:3px;bottom:100%;color:#fff;content:attr(data-tooltip);display:block;font-size:12px;left:50%;line-height:normal;max-width:32rem;opacity:0;overflow:hidden;padding:8px 16px;pointer-events:none;position:absolute;text-overflow:ellipsis;transform:translate(-50%, 0);transition:opacity 0.25s, transform 0.25s;white-space:nowrap;box-sizing:border-box;z-index:10;}[data-tooltip-visible=true]::after, [data-tooltip]:focus::after, [data-tooltip]:hover::after{opacity:1;transform:translate(-50%, -0.5rem);}[data-tooltip-pos=right]::after{bottom:50%;left:100%;transform:translate(0, 50%);}[data-tooltip-pos=right]:focus::after, [data-tooltip-pos=right]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=right]::after{transform:translate(0.5rem, 50%);}[data-tooltip-pos=bottom]::after{bottom:auto;top:100%;transform:translate(-50%, 0);}[data-tooltip-pos=bottom]:focus::after, [data-tooltip-pos=bottom]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=bottom]::after{transform:translate(-50%, 0.5rem);}[data-tooltip-pos=left]::after{bottom:50%;left:auto;right:100%;transform:translate(0, 50%);}[data-tooltip-pos=left]:focus::after, [data-tooltip-pos=left]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=left]::after{transform:translate(-0.5rem, 50%);}[data-tooltip-length=small]::after{white-space:normal;width:80px;}[data-tooltip-length=medium]::after{white-space:normal;width:150px;}[data-tooltip-length=large]::after{white-space:normal;width:300px;}[data-tooltip-length=fit]::after{white-space:normal;width:100%;}// IE 11 bugfix
-      button[data-tooltip]{overflow:visible;}.tooltip-component{position:relative;display:inline-block;vertical-align:top;}.tooltip-component--empty{width:50px;height:50px;}.tooltip-component__body, [data-tooltip]::after{font-family:Helvetica, sans-serif;background:rgba(55, 61, 73, 0.95);border-radius:3px;bottom:100%;color:#fff;content:attr(data-tooltip);display:block;font-size:12px;left:50%;line-height:normal;max-width:32rem;opacity:0;overflow:hidden;padding:8px 16px;pointer-events:none;position:absolute;text-overflow:ellipsis;transform:translate(-50%, 0);transition:opacity 0.25s, transform 0.25s;white-space:nowrap;box-sizing:border-box;z-index:10;}[data-tooltip-visible=true]::after, [data-tooltip]:focus::after, [data-tooltip]:hover::after{opacity:1;transform:translate(-50%, -0.5rem);}[data-tooltip-pos=right]::after{bottom:50%;left:100%;transform:translate(0, 50%);}[data-tooltip-pos=right]:focus::after, [data-tooltip-pos=right]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=right]::after{transform:translate(0.5rem, 50%);}[data-tooltip-pos=bottom]::after{bottom:auto;top:100%;transform:translate(-50%, 0);}[data-tooltip-pos=bottom]:focus::after, [data-tooltip-pos=bottom]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=bottom]::after{transform:translate(-50%, 0.5rem);}[data-tooltip-pos=left]::after{bottom:50%;left:auto;right:100%;transform:translate(0, 50%);}[data-tooltip-pos=left]:focus::after, [data-tooltip-pos=left]:hover::after, [data-tooltip-visible=true][data-tooltip-pos=left]::after{transform:translate(-0.5rem, 50%);}[data-tooltip-length=small]::after{white-space:normal;width:80px;}[data-tooltip-length=medium]::after{white-space:normal;width:150px;}[data-tooltip-length=large]::after{white-space:normal;width:300px;}[data-tooltip-length=fit]::after{white-space:normal;width:100%;}// IE 11 bugfix
-      button[data-tooltip]{overflow:visible;}
+* {
+       box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+      }
+      .container-width{
+        width:90%;
+        max-width:1150px;
+        margin:0 auto;
+      }
+      .flex-sect{
+        background-color:#fafafa;
+        padding:100px 0;
+        font-family:Helvetica, serif;
+      }
+      .flex-title{
+        margin-bottom:15px;
+        font-size:2em;
+        text-align:center;
+        font-weight:700;
+        color:#555;
+        padding:5px;
+      }
+      .cards{
+        padding:20px 0;
+        display:flex;
+        justify-content:space-around;
+        flex-flow:wrap;
+      }
+      .card{
+        background-color:white;
+        height:300px;
+        width:300px;
+        margin-bottom:30px;
+        box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+        border-radius:2px;
+        transition:all 0.5s ease;
+        font-weight:100;
+        overflow:hidden;
+      }
+      .card:hover{
+        margin-top:-5px;
+        box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);
+      }
+      *{
+        box-sizing:border-box;
+      }
+      body{
+        margin:0;
+      }
+      #iny1f{
+        color:black;
+        width:187px;
+        height:299px;
+        text-align:center;
+        position:relative;
+      }
+      #ijp3c{
+        color:black;
+        width:197px;
+        height:261px;
+        top:20px;
+        position:relative;
+        left:50px;
+      }
+      #izkum{
+        color:black;
+        width:257px;
+        height:257px;
+        position:relative;
+        top:20px;
+        left:20px;
+      }
+      #io5nq{
+        color:black;
+        width:298px;
+        height:298px;
+      }
+      #i9wfz{
+        color:black;
+        width:230px;
+        height:276px;
+        position:relative;
+        left:35px;
+        top:10px;
+      }
+      #it40m{
+        color:black;
+        width:210px;
+        height:277px;
+        position:relative;
+        top:10px;
+        left:45px;
+      }
+      #ihfme{
+        padding:50px 0 100px 0;
+      }
+      #ivqwg{
+        padding:10px;
+        text-align:center;
+        font-size:80px;
+        font-family:Arial, Helvetica, sans-serif;
+        background-image:linear-gradient(#bbbbbb,#bbbbbb);
+        background-repeat:repeat;
+        background-position:left top;
+        background-attachment:scroll;
+        background-size:auto;
+      }
+      #ituft{
+        text-align:center;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:25px;
+      }
+      #icf0z{
+        font-size:25px;
+        text-align:center;
+      }
+      #iw7rf{
+        text-align:center;
+      }
+      #ibqg6{
+        font-size:25px;
+        text-align:center;
+        background-image:linear-gradient(#bbbbbb,#bbbbbb);
+        background-repeat:repeat;
+        background-position:left top;
+        background-attachment:scroll;
+        background-size:auto;
+      }
+      #iusar{
+        margin:0 0 30px 0;
+        padding:5px 5px 5px 5px;
+        top:auto;
+      }

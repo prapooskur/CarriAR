@@ -13,3 +13,28 @@ Since stores are either closed or unable to demo phones, many people are instead
 ## The solution
 
 CarriAR allows customers to see the phones with their own eyes, in their own houses, through the power of EchoAR. Carriers can create a website with links to models of their phones, and then use that as a virtual demo. This has the benefits of customers examing the phones closely and keeping themselves safe.
+
+## Inspiration
+* I wanted to solve something that could not be done without the use of AR.
+
+## What it does
+* An augmented reality smartphone demo that allows people to try out a phone without going to a store in person
+
+## How I built it
+* HTML, CSS, and EchoAR.
+
+## Challenges I ran into
+* Most models I found online weren't correctly sized and needed to be resized and sometimes retextured in Blender.
+
+## Accomplishments that I'm proud of
+* Learning how to effectively use EchoAR
+* Learning how to obtain models online
+
+## What I learned
+* How to work with EchoAR
+
+## What's next for CarriAR
+* Include more phones
+* Create an account system so multiple people can upload their own models
+* Create an app/PWA to make the experience feel more native
+* Make the models the site uses higher-quality

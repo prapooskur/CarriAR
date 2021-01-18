@@ -1,4 +1,4 @@
-# Phone-CarriAR
+# CarriAR
 
 A website that allows carriers to show off phones with AR.
 

@@ -12,4 +12,4 @@ Since stores are either closed or unable to demo phones, many people are instead
 
 **The solution**
 
-CarriAR allows consumers to see the phones with their own eyes, in their own houses, through the power of augmented reality..
+CarriAR allows consumers to see the phones with their own eyes, in their own houses, through the power of EchoAR.

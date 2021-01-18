@@ -12,4 +12,4 @@ Since stores are either closed or unable to demo phones, many people are instead
 
 **The solution**
 
-CarriAR allows customers to see the phones with their own eyes, in their own houses, through the power of EchoAR. Carriers can create a website with links to models of their phones, and then use that as a virtual demo. This has the benefits of customers examing the phones closely.
+CarriAR allows customers to see the phones with their own eyes, in their own houses, through the power of EchoAR. Carriers can create a website with links to models of their phones, and then use that as a virtual demo. This has the benefits of customers examing the phones closely and keeping themselves safe.

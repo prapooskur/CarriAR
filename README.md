@@ -1,6 +1,6 @@
 # CarriAR
 
-An augmented reality phone demo..
+An augmented reality phone demo.
 
 ## Background
 Before the pandemic, the most common way to buy a phone was going into a carrier's store. This allowe people to try a phone before buying it. However, this is no longer an option for most due to most stores either being shut down or socially distanced. Additionally, global shipping issues mean even the stores that are open may not have phones to demo.

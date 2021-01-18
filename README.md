@@ -8,4 +8,4 @@ Before the pandemic, the most common way to buy a phone was going to a store. Th
 
 **The problem**
 
-Since stores are either closed or unable to demo phones, 
+Since stores are either closed or unable to demo phones, many people are instead purchasing online. However, this comes with many issues. First and foremost, the customer does not g

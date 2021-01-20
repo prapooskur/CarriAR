@@ -37,3 +37,10 @@ CarriAR allows customers to see the phones with their own eyes, in their own hou
 * Create an account system so multiple people can upload their own models
 * Create an app (possibly a PWA) to make the experience feel more native
 * Make the models the site uses higher-quality
+
+**Credit**
+Models:
+* Galaxy S9: User "anybody" on Sketchfab
+* Everything Else: User "iSteven" on Sketchfab
+
+All models licensed under (Creative Commons)[https://creativecommons.org/licenses/by/4.0/]

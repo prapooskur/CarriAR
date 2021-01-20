@@ -43,4 +43,4 @@ Models:
 * Galaxy S9: User "anybody" on Sketchfab
 * Everything Else: User "iSteven" on Sketchfab
 
-All models licensed under (Creative Commons)[https://creativecommons.org/licenses/by/4.0/]
+All models licensed under [Creative Commons](https://creativecommons.org/licenses/by/4.0/)
